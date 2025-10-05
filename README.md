@@ -17,4 +17,4 @@ Sistema de operaciones matemáticas básicas desarrollado con Node.js y Express.
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/xanax001/calculadora-matematica-web.git
