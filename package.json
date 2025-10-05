@@ -1,0 +1,16 @@
+{
+  "name": "calculadora-matematica-web",
+  "version": "1.0.0",
+  "description": "Sistema de operaciones matemáticas básicas con interfaz web",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["matemáticas", "calculadora", "nodejs", "express"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
